@@ -1,0 +1,15 @@
+body{
+    background-color: antiquewhite;
+}
+#load-prev:hover{
+    color: blue;
+}
+#load-next:hover{
+    color: blue;
+}
+ol{
+    color: red;
+}
+h1{
+    color: blue;
+}
